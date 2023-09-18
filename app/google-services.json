@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "985040977851",
+    "project_id": "aplikasi-31b0d",
+    "storage_bucket": "aplikasi-31b0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985040977851:android:98f4f28427397a18a3ce9e",
+        "android_client_info": {
+          "package_name": "com.adil.aplikasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985040977851-ter6pkjjpa6hcr3ej23f1r55iha0qebq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-b-rfnDl326p1zm8EB2NrJhn33mZlpdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985040977851-ter6pkjjpa6hcr3ej23f1r55iha0qebq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
